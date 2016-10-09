@@ -9,3 +9,5 @@
 * [创建npm包](NPM_PACKAGE.md)
 
 * [单元测试](UNIT_TEST.md)
+
+* [函数和lodash](LODASH_FUNCTION.md)
